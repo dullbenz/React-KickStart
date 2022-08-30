@@ -1,0 +1,3 @@
+[submodule "React-tic-tac-toe"]
+	path = React-tic-tac-toe
+	url = git@github.com:dullbenz/React-tic-tac-toe.git
